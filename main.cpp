@@ -14,7 +14,7 @@ using  namespace std;
 
 
 //define window dimensions
-const int WINDOW_WIDTH = 800;
+const int WINDOW_WIDTH = 800  ;
 const int WINDOW_HEIGHT = 600;
 const float GLOBAL_ANIMATION_SPEED = 1.0f;
 //define SDL Window related variables
